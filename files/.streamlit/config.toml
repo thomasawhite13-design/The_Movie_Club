@@ -1,0 +1,7 @@
+[theme]
+primaryColor="#922D50"             # Mint Leaf
+backgroundColor="#FEF8ED"           # cream (backgroundColor)
+secondaryBackgroundColor="#59C9A5"   # Vintage Berry (sidebar/cards)
+textColor= "#481A36"                # crimson
+font="serif"
+
